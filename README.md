@@ -33,7 +33,7 @@ desarrollar un videojuego, pero conocí en el medio a la programación web y me 
 ### ¿Que hago?  
 Actualmente me egrese del Bootcamp SoyHenry y estoy en busca de mi primer experiencia laboral, para poder avanzar como 
 profesional, a la vez intento realizar proyectos para ganar mas experiencia y estoy tomando clases de ingles porque 
-creo yo que es algo muy importante para un programador  
+es algo muy importante para un programador  
   
 
 
